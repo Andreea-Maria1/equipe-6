@@ -4,7 +4,7 @@
 
 ## 👨‍💻👩‍💻 Équipe :  <br> 🗓️ Date : 6,  1 Février 2025
 
-# 👥 Membres de l'équipe <br> : Aymane Bourchich - Kassi lahlou, Adam - Delannay Sampany Képhren - Ben Rabhi, Jad - Valencia Cabrera, Ana Paula
+# 👥 Membres de l'équipe <br> : Aymane Bourchich - Kassi lahlou, Adam - Delannay Sampany Képhren - Ben Rabhi, Jad - Valencia Cabrera, Ana Paula - Razafimandimby, Loriann
 
 <hr style="border-color: #40E0D0; border-width: 5px;">
 
@@ -15,6 +15,6 @@
 
 # 🧩 Composantes utilisés :  Ecran LCD, keypad, scaneur d'empreintes de doights, UNO R3 Controller Board, 
 
-# 🎨 Esthétique du robot :
+# 🎨 Esthétique du robot : Matiériaux recyclés (c'est du bois en gros c'est l'apocalypse)
 
 # 📚 Références :
